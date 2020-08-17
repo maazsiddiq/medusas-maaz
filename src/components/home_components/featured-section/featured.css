@@ -1,0 +1,9 @@
+.Featured_rambow_gradient {
+  background: linear-gradient(
+    #110732 -20%,
+    #29abe0 50%,
+    #29abe0 60%,
+    #1fa178 100%
+  );
+  
+}

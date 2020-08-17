@@ -1,0 +1,44 @@
+.Card_rambow_gradient {
+  padding: 10px;
+  background: linear-gradient(
+    #110732 -20%,
+    #29abe0 50%,
+    #29abe0 60%,
+    #1fa178 100%
+  );
+}
+
+.RatingStar {
+  font-size: 14px !important;
+}
+
+.typographyReview_No {
+  border-left: solid 1px;
+  color: #ffffff;
+  font-size: 12px !important;
+  margin-left: 8px !important;
+  padding-left: 8px !important;
+}
+.Icon-online-state {
+  color: #008000;
+  font-size: 12px !important;
+  margin: auto;
+}
+.typography-Online-State {
+  font-size: 10px !important;
+  color: #ffffff;
+}
+
+.rate-banner-image {
+  background: url("../../../images/rate_banner.svg");
+  width: 100%;
+  height: 60px;
+}
+.Rate_charges {
+  color: #ffffff;
+  font-weight: bold !important;
+}
+
+.Live_Chat_btn {
+  border-radius: 50px !important;
+}

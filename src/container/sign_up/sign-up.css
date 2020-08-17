@@ -1,0 +1,9 @@
+.green_gradient {
+  text-align: center;
+  padding: 20px;
+  color: #ffffff;
+  background: #4a8079;
+}
+.green_gradient_button {
+  background: #4a8079 !important;
+}

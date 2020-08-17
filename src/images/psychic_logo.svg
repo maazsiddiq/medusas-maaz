@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" id="psychics" xml:space="preserve" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1482 1999"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0,.fil1,.fil2,.fil3,.fil4 {
+        fill:white;
+        transform-origin: center 30%;
+        transform: scale(0.5);
+    }
+    #psychics:hover .fil2a{
+        opacity: 0;
+        transform-origin: 64% 21%;
+        animation: psychics_anime 2s infinite linear;
+    }
+    #psychics:hover .fil3a{
+        opacity: 0;
+        transform-origin: 45% 23%;
+        animation: psychics_anime 2s infinite linear;
+        animation-delay: 0.3s;
+    }
+    #psychics:hover .fil4a{
+        opacity: 0;
+        transform-origin: 55% 34%;
+        animation: psychics_anime 2s infinite linear;
+        animation-delay: 0.6s;
+    }
+    @keyframes psychics_anime{
+        0%,100%{ transform: rotate(0deg) scale(0); opacity: 0;}
+        25%{ transform: rotate(180deg) scale(1); opacity: 1;}
+        50%{ transform: rotate(360deg) scale(0); opacity: 0;}
+    }
+   ]]>
+  </style>
+ </defs>
+ <g>
+   <path class="fil0" d="M741 71c204,0 390,83 524,217 134,134 217,319 217,524 0,204 -83,390 -217,524 -134,134 -320,217 -524,217 -205,0 -390,-83 -524,-217 -134,-134 -217,-320 -217,-524 0,-205 83,-390 217,-524 134,-134 319,-217 524,-217zm489 252c-126,-125 -298,-202 -489,-202 -191,0 -364,77 -489,202 -125,125 -203,298 -203,489 0,191 78,364 203,489 125,125 298,202 489,202 191,0 363,-77 489,-202 125,-125 202,-298 202,-489 0,-191 -77,-364 -202,-489z"/>
+   <path class="fil1" d="M378 1438c290,121 435,121 725,0 20,11 40,21 60,31 37,26 75,52 104,77 -167,87 -347,131 -527,131 -179,0 -359,-44 -526,-131 29,-25 66,-51 104,-77 20,-10 40,-20 60,-31zm913 132c16,18 26,35 34,53 -366,194 -803,194 -1169,0 8,-18 18,-35 34,-53 174,93 362,140 550,140 189,0 377,-47 551,-140zm67 149c7,23 14,46 16,65 5,32 -2,55 -44,89 -43,35 -123,81 -289,106 -184,27 -417,27 -601,0 -167,-25 -246,-71 -289,-106 -43,-34 -49,-57 -44,-89 2,-19 9,-41 16,-64 388,195 846,194 1235,-1z"/>
+   <g class="fil2a">
+   <path class="fil2" d="M874 275l10 4c23,7 33,-2 101,26 16,7 31,16 44,25 38,25 81,73 98,115 11,28 29,79 29,116l4 0c0,-168 120,-282 279,-282l0 -4c-54,0 -136,-29 -177,-66 -26,-24 -25,-19 -50,-54 -18,-24 -35,-66 -42,-96l-7 -47c-2,-9 -2,-7 -7,-12 0,57 -17,117 -51,155 -37,41 -62,63 -121,88 -27,12 -77,29 -110,32z"/>
+   </g>
+   <g class="fil3a">
+   <path class="fil3" d="M490 312l4 2c8,2 12,-1 36,9 6,3 11,6 16,9 14,9 30,27 36,42 4,10 11,29 11,42l1 0c0,-61 44,-102 101,-102l0 -2c-19,0 -49,-10 -64,-24 -10,-8 -9,-6 -18,-19 -7,-9 -13,-24 -15,-35l-3 -17c-1,-3 -1,-3 -2,-5 0,21 -7,43 -19,57 -14,14 -23,23 -44,32 -10,4 -28,10 -40,11z"/>
+   </g>
+   <g class="fil4a">
+   <path class="fil4" d="M695 780l7 4c17,4 24,-2 72,18 11,5 22,11 31,17 27,18 57,52 70,82 7,20 20,56 20,82l3 0c0,-119 85,-200 198,-200l0 -3c-39,0 -97,-20 -126,-46 -18,-17 -17,-13 -35,-39 -13,-17 -25,-47 -30,-68l-5 -33c-2,-6 -1,-5 -5,-9 0,41 -12,84 -36,110 -26,29 -44,45 -86,63 -19,8 -54,21 -78,22z"/>
+   </g>
+ </g>
+</svg>
